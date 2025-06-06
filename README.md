@@ -1,7 +1,8 @@
 #git auto commence 🚀
 # Git Auto Commence
 
-**Git Launchpad** is a simple yet powerful shell script that helps you kickstart any local project with Git in seconds. It automates the boring parts of Git setup and lets you focus on building.
+A simple yet powerful shell script that helps you kickstart any local project with Git in seconds. It automates the boring parts of Git setup and lets you focus on building.
+
 
 ---
 
